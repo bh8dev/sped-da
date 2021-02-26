@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org-psr4/sped-da",
+    "name": "bh8dev/sped-da",
     "type": "library",
     "description": "sped-da contêm as classes para criação dos documentos auxiliares referidos no projeto Sped.",
     "keywords": ["nfe", "sped", "nfephp", "Danfe", "Dacte", "CCe" ],
