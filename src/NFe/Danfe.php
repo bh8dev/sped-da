@@ -1,4 +1,5 @@
 <?php
+
 namespace NFePHP\DA\NFe;
 
 use NFePHP\DA\Legacy\Dom;
